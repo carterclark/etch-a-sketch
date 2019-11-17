@@ -1,3 +1,13 @@
-body {
-    background-color: red;
-}
+.container{
+    display: grid;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    border: solid 1px;
+  }
+  .item{
+    border: solid 1px;
+  }
+  h1{
+    text-align: center;
+  }
